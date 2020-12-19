@@ -1,3 +1,9 @@
+/*
+ * @Author: canpinaremre
+ * Purpose: To read RC SBUS data
+ * Language:  C
+ */
+
 #include "stm32f4xx_hal.h"
 #include "main.h"
 

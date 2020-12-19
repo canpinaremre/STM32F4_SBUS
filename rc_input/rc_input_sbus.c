@@ -1,3 +1,10 @@
+/*
+ * @Author: canpinaremre
+ * Purpose: To read RC SBUS data
+ * Language:  C
+ */
+
+
 #include <lib/rc_input/rc_input_sbus.h>
 
 
