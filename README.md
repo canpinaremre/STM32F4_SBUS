@@ -6,6 +6,8 @@ Use DMA with UART and use UART inverter for SBUS signal. Because SBUS is a inver
 Example:
 
 	SBUS sbus;
+	sbus.arm = 0;
+	sbus.disarm = 0;
 
 	if (RC_READ_SBUS(&huart1,&sbus)) {
 
